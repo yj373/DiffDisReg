@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+*.pdf
+*.png
+*.jpg
+*.jpeg
+Dataset
+Dataset/*
+output
+output/*
+__pycache__
+*/__pycache__
+sam2
